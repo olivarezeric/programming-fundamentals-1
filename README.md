@@ -1,2 +1,4 @@
-# programming-fundamentals-1
-Repository for Programming Fundamentals 1 Assignments
+Programming Fundamentals I
+Name: Eric Olivarez
+Course: Programming Fundamentals I
+Semester: Spring 2026
